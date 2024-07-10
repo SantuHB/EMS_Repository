@@ -6,9 +6,9 @@ public class Test {
 		// TODO Auto-generated method stub
 		
 		Users userObj=new Users();
-		String result=userObj.GetUserID();
+		String results=userObj.GetUserID();
 		
-		System.out.println(result);
+		System.out.println(results);
 
 	}
 
